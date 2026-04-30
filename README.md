@@ -2,7 +2,7 @@
 
 A lightweight, visually pleasing web extension for quick note-taking. Designed with a focus on minimalism and ease of use, PastelNotes organizes your thoughts into clean, color-coded cards.
 
-![Design Preview](https://github.com/yourusername/pastel-notes-extension/raw/main/preview.png)
+![Design Preview]<img width="381" height="490" alt="Screenshot 2026-05-01 000014" src="https://github.com/user-attachments/assets/76f99c24-9794-4a7d-b7e8-d2c629d62e05" />
 *UI inspired by the sleek, rounded aesthetic of modern productivity tools.*
 
 ## ✨ Features
